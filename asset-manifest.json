@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Black-Jack-Live/static/css/main.0f132a60.chunk.css",
-    "main.js": "/Black-Jack-Live/static/js/main.89b48dd1.chunk.js",
-    "main.js.map": "/Black-Jack-Live/static/js/main.89b48dd1.chunk.js.map",
+    "main.js": "/Black-Jack-Live/static/js/main.bd082cef.chunk.js",
+    "main.js.map": "/Black-Jack-Live/static/js/main.bd082cef.chunk.js.map",
     "runtime-main.js": "/Black-Jack-Live/static/js/runtime-main.b50a6fd1.js",
     "runtime-main.js.map": "/Black-Jack-Live/static/js/runtime-main.b50a6fd1.js.map",
     "static/js/2.25b62625.chunk.js": "/Black-Jack-Live/static/js/2.25b62625.chunk.js",
     "static/js/2.25b62625.chunk.js.map": "/Black-Jack-Live/static/js/2.25b62625.chunk.js.map",
     "index.html": "/Black-Jack-Live/index.html",
-    "precache-manifest.14842855b8a43e1953c914a14c121de1.js": "/Black-Jack-Live/precache-manifest.14842855b8a43e1953c914a14c121de1.js",
+    "precache-manifest.291e2da9616a6522f847f86358c2a613.js": "/Black-Jack-Live/precache-manifest.291e2da9616a6522f847f86358c2a613.js",
     "service-worker.js": "/Black-Jack-Live/service-worker.js",
     "static/css/main.0f132a60.chunk.css.map": "/Black-Jack-Live/static/css/main.0f132a60.chunk.css.map",
     "static/js/2.25b62625.chunk.js.LICENSE.txt": "/Black-Jack-Live/static/js/2.25b62625.chunk.js.LICENSE.txt",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.b50a6fd1.js",
     "static/js/2.25b62625.chunk.js",
     "static/css/main.0f132a60.chunk.css",
-    "static/js/main.89b48dd1.chunk.js"
+    "static/js/main.bd082cef.chunk.js"
   ]
 }
